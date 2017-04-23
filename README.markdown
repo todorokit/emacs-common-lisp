@@ -3,6 +3,7 @@ emacs-common-lisp
 ***
 Eval lisp code by sbcl with seamless syntax.
 
+This repository intends to share ideas.
 ***
 #usage
 	Install this library.
